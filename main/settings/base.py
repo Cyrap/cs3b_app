@@ -24,7 +24,8 @@ INSTALLED_APPS = [
     "django_ckeditor_5",
     "rest_framework_simplejwt",
     # apps
-    # "cyrap",
+    "cyrap",
+    "users",
 ]
 
 REST_FRAMEWORK = {
